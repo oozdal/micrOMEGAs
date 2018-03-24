@@ -5,7 +5,7 @@ The output will be as follows and given in omg.out file
 
 Block RELIC
 
-   700   8.217226E+02   # relic density
+   700   8.217226E+02   # relic density \n
    100   5.600852E-01   # ~N1 ~N1 -> h1 Z
    101   2.014468E-01   # ~N1 ~N1 -> u3 U3
    102   5.473177E-02   # ~se1 ~se1 -> e3 e3
