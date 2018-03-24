@@ -7,8 +7,10 @@ using namespace std;
 
 /* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 /* MAIN PROGRAM (by F.Staub, last change 02.01.2012)			     		    */
+/* Modified by O.Ozdal for indirect DM searches, last change 06.12.2017                     */
 /* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 
+                            
 int main(int argc, char** argv)
 {  
 		int err, i;
